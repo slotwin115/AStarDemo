@@ -4,7 +4,7 @@
 Controls:
 
 ----------------+----------------------------------------+
-Keyboard Key    |   Description   						 |
+Keyboard Key    |   Description                          |
 ----------------+----------------------------------------+
 C Clears grid.  |   Restores grid to its default state.  |
 ----------------+----------------------------------------+
